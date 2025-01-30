@@ -1,4 +1,4 @@
-# Texto a Voz 🇪🇸 
+# Texto a Voz ![Spain Flag](https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg)
 
 En este proyecto se convierte un artículo existente en un archivo de audio reproducible
 en formato mp3. Para ello se hace uso de bibliotecas existenes como nltk (kit de
@@ -13,7 +13,7 @@ Una vez se ejecuta el código el programa te pedirá la url para convetir en arc
 Se acaba creando un archivo MP3
 
 
-# Text to Speech 🇬🇧
+# Text to Speech  ![UK Flag](https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg)
 In this project, an existing article is converted into a playable audio file in MP3 format. To achieve this, existing libraries such as NLTK (Natural Language Toolkit), Newspaper3k, and gTTS are used.
 
 ## To consider
