@@ -1,0 +1,8 @@
+La idea de este proyecto es crear un programa que evalúe cuan rápido puedes escribir una
+oración de manera precisa.
+Este programa puede requerir crear una interfaz gráfica de usuario (GUI) mediante el módulo
+tkinter. Si eres nuevo en las GUI, este ejemplo es una buena introducción, ya que tan solo
+necesitas crear una serie de etiquetas simples, botones y campos de entrada para crear una
+ventana. Puedes usar el módulo timeit de Python para manejar el aspecto de temporización
+de nuestra prueba de escritura, y el módulo random para seleccionar aleatoriamente una frase
+de prueba.
